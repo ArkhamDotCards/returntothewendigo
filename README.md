@@ -1,2 +1,2 @@
-# Arkham Horror LCG: The Sands of Memphis
+# Arkham Horror LCG: Return to the Wendigo
 WIP
